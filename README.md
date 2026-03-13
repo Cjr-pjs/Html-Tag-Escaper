@@ -1,14 +1,9 @@
 HTML Tag Escaper 🛡️
-Projeto simples desenvolvido em TypeScript, com o objetivo de praticar o uso de Git, GitHub e TypeScript.
 
 Este projeto lê um arquivo de texto, substitui caracteres especiais HTML (<, >, &) pelas suas versões "escapadas" (&lt;, &gt;, &amp;), e gera um novo arquivo com o conteúdo seguro para uso em páginas web.
 
 📚 Sobre o Projeto
-Durante meu aprendizado em Git e TypeScript, desenvolvi este pequeno programa para:
-
-Praticar conceitos de manipulação de arquivos com Node.js;
-
-Utilizar promises e funções assíncronas (async/await);
+uso de promises e funções assíncronas (async/await);
 
 Trabalhar com entrada e saída de dados no terminal;
 
